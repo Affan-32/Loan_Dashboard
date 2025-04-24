@@ -1,5 +1,7 @@
 # Loan_Dashboard
 Bank Loan Analysis Dashboard using Power BI
+
+
 DASHBOARD 1: SUMMARY
 
 Key Performance Indicators (KPIs) Requirements:
